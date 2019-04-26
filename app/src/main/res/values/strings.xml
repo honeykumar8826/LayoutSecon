@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Screen19</string>
+    <string name="create_account">Create Account</string>
+    <string name="terms_conditions">By Singingup you agree our <font color="#00FA9A">Terms and Conditons</font></string>
+    <string name="button_create_account">Create Account</string>
+
+
+</resources>
